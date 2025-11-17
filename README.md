@@ -40,7 +40,9 @@ All of this lives in **one CSS file** and works locally on your PUTER! [Computer
 
 **Others**:
 <img width="1545" height="741" alt="image" src="https://github.com/user-attachments/assets/c991a62a-54a6-4460-a571-cac3a9498853" />
+<img width="1911" height="932" alt="image" src="https://github.com/user-attachments/assets/d2e006f4-b5a4-4b62-9e76-1d7ae80b6ef7" />
 
+Developer Note: Holy shit these are BROKEN AS FUCK LOL
 
 
 ## ⚙️ Install (Chromium)
