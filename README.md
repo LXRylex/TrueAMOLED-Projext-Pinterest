@@ -56,3 +56,4 @@ Expected Release Date [17/11/2025]
 5. Open Pinterest and refresh.~~
 
 If you still see white chunks, Pinterest probably changed something try to CTRL+R it will hard refresh, if it does not work report with a screenshot and i'll patch it as quick as possible if it can be done because some elements are hard to turn to black
+[StayTrue-AMOLED-v0.7.1-Beta.zip](https://github.com/user-attachments/files/23585966/StayTrue-AMOLED-v0.7.1-Beta.zip)
