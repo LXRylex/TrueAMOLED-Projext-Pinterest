@@ -36,7 +36,8 @@ All of this lives in **one CSS file** and works locally on your PUTER! [Computer
 
 # TrueAMOLED x Other Dark Theme's comparison
 <img width="1318" height="741" alt="image" src="https://github.com/user-attachments/assets/c0fd8255-2f66-4745-aac6-869e24c6e9e1" />
-<img width="1318" height="741" alt="image" src="https://github.com/user-attachments/assets/4d3839f3-b0c1-4974-bb45-b9233937d820" />
+<img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/86c9338b-0cc4-4451-84ec-90a0a46a3b96" />
+
 
 # **Others**:
 <img width="1545" height="741" alt="image" src="https://github.com/user-attachments/assets/c991a62a-54a6-4460-a571-cac3a9498853" />
