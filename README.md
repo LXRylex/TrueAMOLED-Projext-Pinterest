@@ -29,14 +29,15 @@ Most awful "Pinterest dark/black" extensions:
 - **Custom scrollbar**  
   - A better stylized scrollbar to fit with the theme
 
-- **Gets rid of the "Discover"**  
-  - Hides the **Discover** seems poinless to me if there is a demand i may add it back
+- ~~**Gets rid of the "Discover"**~~
+  - ~~Hides the **Discover** seems poinless to me if there is a demand i may add it back~~
+  - **_Due to high demand it's added back_**
 
-All of this lives in **one CSS file** and works locally on your PUTER! [Computer]
+All of this lives in **one CSS file** and works locally on your PUTER! [Computer] Without JS file enjections that are unrelayable
 
 # TrueAMOLED x Other Dark Theme's comparison
-<img width="1318" height="741" alt="image" src="https://github.com/user-attachments/assets/c0fd8255-2f66-4745-aac6-869e24c6e9e1" />
-<img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/86c9338b-0cc4-4451-84ec-90a0a46a3b96" />
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/34668db0-1e55-454d-b3c9-59ca979fceaa" />
+<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/e8e53cf5-39d6-4da9-b3f7-42f228e4b99b" />
 
 
 # **Others**:
