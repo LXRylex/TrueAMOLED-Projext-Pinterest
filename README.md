@@ -47,12 +47,9 @@ All of this lives in **one CSS file** and works locally on your PUTER! [Computer
 Developer Note: Holy shit these are BROKEN AS FUCK LOL
 
 
-## ⚙️ Install (Chromium)
+## ⚙️ Get From Here:
 
-1. Extract the .zip
-2. Go to `chrome://extensions/`.
-3. Enable **Developer mode**.
-4. Click **Load unpacked** and select the folder.
-5. Open Pinterest and refresh.
+Chrome Store: https://chromewebstore.google.com/detail/pinterest-amoled-theme/kdgobbjebmemhbllcgplpnolhoaniegn
+Mozilla Store: https://addons.mozilla.org/en-US/firefox/addon/pinterest-amoled-theme/
 
 If you still see white chunks, Pinterest probably changed something try to CTRL+R it will hard refresh, if it does not work report with a screenshot and i'll patch it as quick as possible if it can be done because some elements are hard to turn to black
