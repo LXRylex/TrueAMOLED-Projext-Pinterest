@@ -11,7 +11,7 @@ Most awful "Pinterest dark/black" extensions:
 - Only style the home feed and ignore popups, menus, comments, and edit screens.
 - Leave random white cards, borders, and dialog boxes burning your eyes.
 - Break as soon as Pinterest tweaks a class name.
-- Slap on one generic stylesheet and call it a day. WELL FUCK IT!1!1!!
+- Slap on one generic stylesheet and call it a day or stop maintaining it
 
 **TrueAMOLED - Pinterest** is built specifically around Pinterest’s real UI pieces and provides the best dark mode experience
 
