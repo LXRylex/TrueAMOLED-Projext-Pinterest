@@ -1,4 +1,5 @@
-# StayTrue / Pinterest
+![Untitled (1)](https://github.com/user-attachments/assets/a64da5f4-393c-4b4a-8e82-c10491706ce0)
+# StayTrue / Pinterest Project
 
 Tired of “dark mode” extensions that leave half of Pinterest glowing white or break every other fucking update?
 **TrueAMOLED - Pinterest** is a *CSS-only* theme that actually does the job as goddamn god intended.
@@ -18,6 +19,14 @@ Most awful "Pinterest dark/black" extensions:
 
 - **Global pure black background**  
   Main app root, vertical nav, top bar, dialogs, popups, dropdowns etc and A WHOLLA LOT MORE!
+
+## Features:
+
+- **Toggle on / off the theme** (obviously)
+  - **Adjust overall screen brightness** (It's not contrast or smthn, i really mean it when i say adjust brightness)
+  - **Save pins to your local vault** (Decided to add due to pinterest sending unfair violations just for saving pins)
+ 
+## Other:
 
 - **List of some fixes**  
   - Black Texts > White  
@@ -44,8 +53,12 @@ All of this lives in **one CSS file** and works locally on your PUTER! [Computer
 <img width="1545" height="741" alt="image" src="https://github.com/user-attachments/assets/c991a62a-54a6-4460-a571-cac3a9498853" />
 <img width="1911" height="932" alt="image" src="https://github.com/user-attachments/assets/d2e006f4-b5a4-4b62-9e76-1d7ae80b6ef7" />
 
-Developer Note: Holy shit these are BROKEN AS FUCK LOL
+Developer Note: Holy shit these are really broken
 
+ ## Extra Mentioned Features:
+<img width="1856" height="1000" alt="Ekran görüntüsü 2025-12-31 205017" src="https://github.com/user-attachments/assets/882fce0c-eef8-45ff-a23e-bcdb07ad8785" />
+<img width="1855" height="1000" alt="Ekran görüntüsü 2025-12-31 205042" src="https://github.com/user-attachments/assets/520cb969-177c-4f01-a481-adfa71b5bd71" />
+<img width="1857" height="997" alt="Ekran görüntüsü 2026-01-04 133222" src="https://github.com/user-attachments/assets/2d6e9f89-4e27-4b98-98e0-3a5ca765bd56" />
 
 ## ⚙️ Get From Here:
 
