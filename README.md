@@ -62,10 +62,8 @@ Developer Note: Holy shit these are really broken
 
 ## ⚙️ Get From Here:
 
-> Chrome Store:
-> https://chromewebstore.google.com/detail/pinterest-amoled-theme/kdgobbjebmemhbllcgplpnolhoaniegn </br>
+> ---> [Get for Chromium](https://chromewebstore.google.com/detail/pinterest-amoled-theme/kdgobbjebmemhbllcgplpnolhoaniegn)
 
-> Mozilla Store:
-> https://addons.mozilla.org/en-US/firefox/addon/pinterest-amoled-theme/
+> ---> [Get for Mozilla/Firefox Browsers](https://addons.mozilla.org/en-US/firefox/addon/pinterest-amoled-theme/)
 
 If you still see white chunks, Pinterest probably changed something try to CTRL+R it will hard refresh, if it does not work report with a screenshot and i'll patch it as quick as possible if it can be done because some elements are hard to turn to black
